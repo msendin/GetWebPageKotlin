@@ -1,1 +1,1 @@
-Simple app for downloading html code from google.com in Kotlin
+Simple app for downloading html code from google.com using Handler, in Kotlin
